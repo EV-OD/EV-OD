@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabin Lamichhane</h1>
 <h3 align="center">An alchemist of the web, where HTML and CSS are my potions, and JavaScript is my incantation.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EV-OD&label=Profile%20views&color=0e75b6&style=flat" alt="EV-OD" /> </p>
+
 
 - 🔭 I’m currently working on [Art-Gallery](https://github.com/EV-OD/art-gallery)
 
