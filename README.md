@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EV-OD&label=Profile%20views&color=0e75b6&style=flat" alt="EV-OD" /> </p>
 
 
-- 🔭 I’m currently working on [Art-Gallery](https://github.com/EV-OD/art-gallery)
+- 🔭 I’m currently working on [Digital Logic Simulator](https://github.com/EV-OD/Digital-Logic)
 
 - 🌱 I’m currently learning **Threlte**
 
