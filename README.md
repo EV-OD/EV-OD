@@ -28,8 +28,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/evod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="evod" height="30" width="40" /></a>
-<a href="https://twitter.com/allwcons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allwcons" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rabin lamichhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabin lamichhane" height="30" width="40" /></a>
+<a href="https://x.com/RabinLc164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allwcons" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rabinlc01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabin lamichhane" height="30" width="40" /></a>
 <a href="https://fb.com/rabin lc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabin lc" height="30" width="40" /></a>
 <a href="https://medium.com/@allwcons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@allwcons" height="30" width="40" /></a>
 </p>
