@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Cursor**
 
-- 👨‍💻 All of my projects are available at [https://ev-od.github.io/portfilio/](https://ev-od.github.io/portfilio/)
-
 - 📝 I regularly write articles on [https://medium.com/@allwcons](https://medium.com/@allwcons)
 
 - 💬 Ask me about **React, gsap, Svelte, javascript, threejs**
