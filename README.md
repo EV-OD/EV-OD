@@ -3,15 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EV-OD&label=Profile%20views&color=0e75b6&style=flat" alt="EV-OD" /> </p>
 
 
-- 🔭 I’m currently working on [Digital Logic Simulator](https://github.com/EV-OD/Digital-Logic)
-
-- 🌱 I’m currently learning **Threlte**
-
-- 👯 I’m looking to collaborate on **Cursor**
-
 - 📝 I regularly write articles on [https://medium.com/@allwcons](https://medium.com/@allwcons)
 
-- 💬 Ask me about **React, gsap, Svelte, javascript, threejs**
 
 - 📫 How to reach me **evod599@gmail.com**
 
