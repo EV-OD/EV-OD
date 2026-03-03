@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+      .bg { fill: #0d1117; }
+      .grid-line { stroke: #1a2a3a; stroke-width: 0.5; }
+      .title {
+        font-family: 'Share Tech Mono', monospace;
+        fill: #00e5ff;
+        font-size: 42px;
+        font-weight: bold;
+        letter-spacing: 4px;
+      }
+      .subtitle {
+        font-family: 'Share Tech Mono', monospace;
+        fill: #a0c8e0;
+        font-size: 15px;
+        letter-spacing: 2px;
+      }
+      .tag {
+        font-family: 'Share Tech Mono', monospace;
+        fill: #ff79c6;
+        font-size: 12px;
+        letter-spacing: 1px;
+      }
+      .cursor {
+        fill: #00e5ff;
+        animation: blink 1s step-start infinite;
+      }
+      .glow {
+        filter: url(#glow);
+      }
+      .scanline {
+        fill: none;
+        stroke: #00e5ff;
+        stroke-width: 1;
+        stroke-dasharray: 200 700;
+        animation: scan 3s linear infinite;
+        opacity: 0.15;
+      }
+      .fade-in-1 { animation: fadeIn 0.8s ease-out 0.2s both; }
+      .fade-in-2 { animation: fadeIn 0.8s ease-out 0.6s both; }
+      .fade-in-3 { animation: fadeIn 0.8s ease-out 1s both; }
+      .fade-in-4 { animation: fadeIn 0.8s ease-out 1.4s both; }
+      .corner {
+        fill: none;
+        stroke: #00e5ff;
+        stroke-width: 1.5;
+        opacity: 0.7;
+      }
+      .pulse {
+        animation: pulse 2s ease-in-out infinite;
+      }
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+      @keyframes scan {
+        0%   { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: -900; }
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.6; }
+        50%       { opacity: 1; }
+      }
+    </style>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" class="bg"/>
+
+  <!-- Grid -->
+  <g>
+    <line x1="0" y1="40" x2="900" y2="40" class="grid-line"/>
+    <line x1="0" y1="80" x2="900" y2="80" class="grid-line"/>
+    <line x1="0" y1="120" x2="900" y2="120" class="grid-line"/>
+    <line x1="0" y1="160" x2="900" y2="160" class="grid-line"/>
+    <line x1="150" y1="0" x2="150" y2="200" class="grid-line"/>
+    <line x1="300" y1="0" x2="300" y2="200" class="grid-line"/>
+    <line x1="450" y1="0" x2="450" y2="200" class="grid-line"/>
+    <line x1="600" y1="0" x2="600" y2="200" class="grid-line"/>
+    <line x1="750" y1="0" x2="750" y2="200" class="grid-line"/>
+  </g>
+
+  <!-- Scanning line animation -->
+  <line x1="0" y1="0" x2="0" y2="200" class="scanline"/>
+
+  <!-- Corner brackets -->
+  <polyline points="20,20 20,8 32,8" class="corner"/>
+  <polyline points="868,20 868,8 880,8" class="corner pulse"/>
+  <polyline points="20,180 20,192 32,192" class="corner"/>
+  <polyline points="868,180 868,192 880,192" class="corner pulse"/>
+
+  <!-- Left accent bar -->
+  <rect x="20" y="70" width="3" height="60" fill="#00e5ff" opacity="0.8"/>
+
+  <!-- System tag top-left -->
+  <text x="30" y="22" class="tag fade-in-1">[ LC OS v2.5.0 ] ~ kernel/2.5.0-generic</text>
+
+  <!-- Main title -->
+  <text x="30" y="100" class="title glow fade-in-2">RABIN LAMICHHANE</text>
+  <!-- Cursor after title -->
+  <rect x="485" y="78" width="16" height="26" class="cursor fade-in-2"/>
+
+  <!-- Subtitle -->
+  <text x="32" y="130" class="subtitle fade-in-3">Programmer · Developer · Web Enthusiast</text>
+
+  <!-- Bottom status bar -->
+  <text x="32" y="170" class="tag fade-in-4">&#62;_ Lalitpur, Nepal  |  IOE Pulchowk Campus  |  lamichhanerabin.com.np</text>
+
+  <!-- Right side dots decoration -->
+  <circle cx="855" cy="50" r="3" fill="#ff79c6" class="pulse"/>
+  <circle cx="855" cy="65" r="3" fill="#00e5ff" class="pulse"/>
+  <circle cx="855" cy="80" r="3" fill="#50fa7b" class="pulse"/>
+
+  <!-- Bottom border line -->
+  <line x1="20" y1="195" x2="880" y2="195" stroke="#1a3a4a" stroke-width="1"/>
+</svg>

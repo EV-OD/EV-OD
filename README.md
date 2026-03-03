@@ -1,33 +1,306 @@
-<h1 align="center">Hi 👋, I'm Rabin Lamichhane</h1>
-<h3 align="center">An alchemist of the web, where HTML and CSS are my potions, and JavaScript is my incantation.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EV-OD&label=Profile%20views&color=0e75b6&style=flat" alt="EV-OD" /> </p>
-
-
-- 📝 I regularly write articles on [https://medium.com/@allwcons](https://medium.com/@allwcons)
-
-
-- 📫 How to reach me **evod599@gmail.com**
-
-### Blogs posts
-
-- 📫 How to reach me **evod599@gmail.com**
-
-### Blogs posts
-
-[Memory Management in Web Development](https://medium.com/@allwcons/memory-management-in-web-development-171f951ef765)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/evod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="evod" height="30" width="40" /></a>
-<a href="https://x.com/RabinLc164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allwcons" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rabinlc01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabin lamichhane" height="30" width="40" /></a>
-<a href="https://fb.com/rabin lc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabin lc" height="30" width="40" /></a>
-<a href="https://medium.com/@allwcons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@allwcons" height="30" width="40" /></a>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ANIMATED SVG HEADER  (CSS animations embedded via SVG file)  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="header.svg" alt="Rabin Lamichhane — LC OS" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<!-- ═══════════════════════════ TYPING SVG ════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&lines=Building+Operating+Systems+from+scratch+%F0%9F%96%A5%EF%B8%8F;Designing+4-bit+Microprocessors+in+Logisim+%F0%9F%94%A7;Crafting+WebGL+%2F+Three.js+3D+Experiences+%F0%9F%8C%90;Compiler+Design+%26+Kernel+Dev+in+C+%2B+x86+ASM;I+build+whatever+I+want+to+build+%F0%9F%94%A5" alt="Typing SVG"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ev-od&show_icons=true&locale=en&layout=compact" alt="ev-od" /></p>
+<!-- ═════════════════════════ PROFILE VIEWS + SOCIALS ════════════ -->
+<p align="center">
+  <a href="https://github.com/EV-OD">
+    <img src="https://komarev.com/ghpvc/?username=EV-OD&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
+  </a>
+  &nbsp;
+  <a href="https://lamichhanerabin.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-lamichhanerabin.com.np-00e5ff?style=flat-square&logo=firefox&logoColor=white" alt="portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rabinlc01/">
+    <img src="https://img.shields.io/badge/LinkedIn-rabinlc01-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/RabinLc164">
+    <img src="https://img.shields.io/badge/X-@RabinLc164-000000?style=flat-square&logo=x&logoColor=white" alt="x/twitter"/>
+  </a>
+  &nbsp;
+  <a href="https://dev.to/evod">
+    <img src="https://img.shields.io/badge/dev.to-evod-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@allwcons">
+    <img src="https://img.shields.io/badge/Medium-@allwcons-12100E?style=flat-square&logo=medium&logoColor=white" alt="medium"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ev-od&" alt="ev-od" /></p>
+<!-- ═════════════════════════════ ABOUT ══════════════════════════ -->
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### 👾 About Me
+
+```
+> whoami
+  Rabin Lamichhane — Computer Engineer, Programmer
+  & Web Enthusiast from Lalitpur, Nepal.
+
+> cat manifesto.txt
+  I might sound a little crazy, but I'm someone
+  who has fallen in love with tech in all its forms.
+  I build WebGL 3D apps AND 4-bit microprocessors.
+  Whether it's high-level web magic or low-level
+  hardware hacking — I build whatever I want. 🔥
+
+> uname -a
+  Linux LC-OS 2.5.0-generic x86_64 GNU/Linux
+```
+
+</td>
+<td valign="top" width="45%">
+
+### ⚡ Quick Facts
+
+| | |
+|---|---|
+| 🎓 | B.E. Computer — IOE Pulchowk |
+| 📍 | Lalitpur, Nepal |
+| 🏛️ | IEEE Webmaster, Pulchowk SB |
+| 🖥️ | Built a 32-bit OS kernel in C + x86 ASM |
+| 🔌 | Designed a 4-bit CPU in Logisim |
+| 🌐 | Full-stack + 3D web experiences |
+| 🏆 | NASA Space Apps Challenge |
+| 📧 | evod599@gmail.com |
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ══════════════════════════ TECH STACK ════════════════════════ -->
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Runtimes**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Low-level & Systems**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-2E86AB?style=for-the-badge&logo=verilog&logoColor=white)
+![Qt/QML](https://img.shields.io/badge/Qt%2FQML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+<!-- ════════════════════════ FEATURED PROJECTS ═══════════════════ -->
+
+### 🚀 Featured Projects
+
+<details>
+<summary><b>🖥️ RandomOS — 32-bit Operating System Kernel</b> &nbsp;<code>C · x86 Assembly · NASM · GRUB</code></summary>
+<br/>
+
+> An experimental 32-bit OS kernel written in C and x86 Assembly. Features a higher-half kernel with paging, interrupt handling, FAT32 filesystem, CFS multitasking scheduler, VESA GUI subsystem, and a fully native compiler (**rosc**) for the RandomOS Language (`.ros`) that produces ring-3 user-mode executables at runtime.
+
+**Status:** 🟡 Ongoing &nbsp; | &nbsp; 📂 [View on GitHub](https://github.com/EV-OD/os)
+
+</details>
+
+<details>
+<summary><b>🔌 4-Bit Microprocessor</b> &nbsp;<code>Logisim-Evolution · Digital Logic</code></summary>
+<br/>
+
+> A complete 4-bit CPU designed in Logisim-Evolution. Minimalist and educational by design — ideal for understanding how computation works at the transistor level.
+
+**Status:** ✅ Completed &nbsp; | &nbsp; 📂 [View on GitHub](https://github.com/EV-OD/4bit_computer)
+
+</details>
+
+<details>
+<summary><b>⚡ CircuitFlow — AI + SPICE in the Browser</b> &nbsp;<code>React · WebAssembly · NGSPICE · Gemini</code></summary>
+<br/>
+
+> "Google Maps for Electronics." Uses Gemini's reasoning with an industrial-grade SPICE physics simulator (via WebAssembly) running in the browser to design functional schematics from natural language prompts.
+
+**Status:** 🟡 Ongoing &nbsp; | &nbsp; 📂 [GitHub](https://github.com/EV-OD/circuitflow) &nbsp; | &nbsp; 🎥 [Demo](https://www.youtube.com/watch?v=H_MoL6nBAdA)
+
+</details>
+
+<details>
+<summary><b>🔧 @allwcons/vite-plugin-jsw — WASM from TypeScript</b> &nbsp;<code>TypeScript · Vite · AssemblyScript</code></summary>
+<br/>
+
+> A Vite plugin enabling high-performance WebAssembly compilation from TypeScript-like syntax using the `use wasm` directive. Handles type inference and auto-i32 index casting.
+
+**Status:** 🟡 Ongoing &nbsp; | &nbsp; 📂 [GitHub](https://github.com/EV-OD/vite-plugin-jsw) &nbsp; | &nbsp; 📦 [npm](https://www.npmjs.com/package/@allwcons/vite-plugin-jsw)
+
+</details>
+
+<details>
+<summary><b>🤖 SnapRun — Windows Automation with Rhai Scripting</b> &nbsp;<code>Rust · Tauri v2 · SolidJS</code></summary>
+<br/>
+
+> A Windows automation tool that simplifies workflows through Rhai scripting. Features global shortcuts, markdown rendering, and comprehensive file system APIs for productivity.
+
+**Status:** 🟡 Ongoing &nbsp; | &nbsp; 📂 [View on GitHub](https://github.com/EV-OD/winscript)
+
+</details>
+
+<details>
+<summary><b>🌌 Celestial Odyssey — 3D Solar System Explorer</b> &nbsp;<code>React · Three.js · Python</code></summary>
+<br/>
+
+> Interactive 3D exploration of the solar system with immersive planet tours, detailed planetary data, sound effects, and an AI guide. Built for the NASA Space Apps Challenge 2023.
+
+**Status:** ✅ Completed &nbsp; | &nbsp; 📂 [View on GitHub](https://github.com/clerisy47/Celestial-Odyssey)
+
+</details>
+
+<details>
+<summary><b>⚙️ Digisim — Digital Logic Simulator</b> &nbsp;<code>C++ · Gtkmm 4</code></summary>
+<br/>
+
+> A full digital logic simulator built with C++ and Gtkmm 4 for educational purposes. Supports custom chip design and complex circuit simulation.
+
+**Status:** ✅ Completed &nbsp; | &nbsp; 📂 [GitHub](https://github.com/EV-OD/Digital-Logic) &nbsp; | &nbsp; 🌐 [Website](https://ev-od.github.io/DigiSem-WebSite/)
+
+</details>
+
+<details>
+<summary><b>✏️ VectorMate JS — Web-Based Vector Editor</b> &nbsp;<code>React · TypeScript · Canvas</code></summary>
+<br/>
+
+> A powerful browser-based vector editor with infinite canvas, pan/zoom, boolean shape operations, snapping, and extensive keyboard shortcuts.
+
+**Status:** ✅ Completed &nbsp; | &nbsp; 📂 [GitHub](https://github.com/EV-OD/vectormate_js_version) &nbsp; | &nbsp; 🌐 [Live](https://ev-od.github.io/vectormate_js_version/)
+
+</details>
+
+<details>
+<summary><b>📐 Shaper — 3D Geometry Node Editor</b> &nbsp;<code>React · Three.js · Node.js</code></summary>
+<br/>
+
+> A web-based application for creating and manipulating geometry nodes. Provides an intuitive interface for designing complex geometric shapes directly in the browser.
+
+**Status:** ✅ Completed &nbsp; | &nbsp; 📂 [GitHub](https://github.com/EV-OD/shaper) &nbsp; | &nbsp; 🌐 [Live](https://ev-od.github.io/shaper/)
+
+</details>
+
+<details>
+<summary><b>📚 More Projects...</b></summary>
+<br/>
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [Acss](https://github.com/EV-OD/acss) | CSS Engine with if-else logic and browser runtime events | Node.js, JS | ✅ |
+| [Wcons CLI](https://github.com/EV-OD/wcons) | Customizable CLI with extensible commands & cross-platform support | Python | ✅ |
+| [NyayaPrep](https://github.com/EV-OD/nyayaprep) | BALLB prep MCQ platform with translation & subscription management | Next.js, Firebase | 🟡 |
+| [Nepal Driving License Exam](https://github.com/EV-OD/License-test) | Free mock test app for Nepal's driving license exam | Next.js, Tailwind | 🟡 |
+| [Pattern Generator](https://github.com/EV-OD/react-pattern-generator) | Web-based pattern generator with shapes, colors & styles | React, TS | ✅ |
+| [Graph Plotter in C](https://github.com/bct2079/graphzier) | Visualize mathematical functions using Cairo graphics | C, Cairo | ✅ |
+
+</details>
+
+---
+
+<!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EV-OD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff79c6&text_color=a0c8e0&rank_icon=github" height="170" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EV-OD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=a0c8e0&langs_count=8" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EV-OD&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff79c6&currStreakLabel=00e5ff&sideLabels=a0c8e0&dates=a0c8e0&stroke=00e5ff" alt="GitHub Streak" width="55%"/>
+</p>
+
+<!-- ═══════════════════════════ TROPHIES ══════════════════════════ -->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EV-OD&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" width="100%"/>
+</p>
+
+<!-- ═══════════════════════ ACTIVITY GRAPH ════════════════════════ -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EV-OD&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ff79c6&area=true&area_color=00e5ff&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
+</p>
+
+<!-- ═══════════════════════ CONTRIBUTION SNAKE ════════════════════ -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EV-OD/EV-OD/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EV-OD/EV-OD/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/EV-OD/EV-OD/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+<!-- ═══════════════════════════ BLOG ══════════════════════════════ -->
+
+### 📝 Latest Articles
+
+- [Memory Management in Web Development](https://medium.com/@allwcons/memory-management-in-web-development-171f951ef765) — *Medium*
+
+---
+
+<!-- ═══════════════════════════ CONTACT ══════════════════════════ -->
+
+### 📡 Connect
+
+<p align="center">
+  <a href="mailto:evod599@gmail.com"><img src="https://img.shields.io/badge/evod599@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:rabin@ieee.org"><img src="https://img.shields.io/badge/rabin@ieee.org-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://lamichhanerabin.com.np"><img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=firefoxbrowser&logoColor=black"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rabinlc01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://x.com/RabinLc164"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <i>"I might sound a little crazy, but I'm someone who has fallen in love with tech."</i><br/>
+  <sub>— Rabin Lamichhane</sub>
+</p>
