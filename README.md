@@ -243,25 +243,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EV-OD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff79c6&text_color=a0c8e0&rank_icon=github" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EV-OD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff79c6&text_color=a0c8e0&rank_icon=github&cache_seconds=1800" height="170" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EV-OD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=a0c8e0&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EV-OD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=a0c8e0&langs_count=8&cache_seconds=1800" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EV-OD&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff79c6&currStreakLabel=00e5ff&sideLabels=a0c8e0&dates=a0c8e0&stroke=00e5ff" alt="GitHub Streak" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=EV-OD&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff79c6&currStreakLabel=00e5ff&sideLabels=a0c8e0&dates=a0c8e0&stroke=00e5ff" alt="GitHub Streak" width="55%"/>
 </p>
 
 <!-- ═══════════════════════════ TROPHIES ══════════════════════════ -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EV-OD&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EV-OD&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&cache_seconds=1800" alt="GitHub Trophies" width="100%"/>
 </p>
 
 <!-- ═══════════════════════ ACTIVITY GRAPH ════════════════════════ -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EV-OD&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ff79c6&area=true&area_color=00e5ff&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EV-OD&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ff79c6&area=true&area_color=00e5ff&hide_border=true&radius=8&cache_seconds=1800" alt="Activity Graph" width="100%"/>
 </p>
 
 <!-- ═══════════════════════ CONTRIBUTION SNAKE ════════════════════ -->

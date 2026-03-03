@@ -1,0 +1,47 @@
+name: Update Medium Articles
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # runs daily at 12:00 UTC
+  workflow_dispatch:        # allow manual trigger
+
+jobs:
+  update-articles:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install feedparser
+
+      - name: Fetch Medium articles and update README
+        run: python scripts/fetch_medium_articles.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Check if there are changes
+          if git diff --quiet README.md; then
+            echo "ℹ️ No changes to commit"
+          else
+            echo "📝 Changes detected, committing..."
+            git add README.md
+            git commit -m "docs: update medium articles [auto]"
+            git push
+            echo "✅ Changes pushed successfully"
+          fi
